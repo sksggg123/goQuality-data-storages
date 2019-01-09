@@ -1,0 +1,40 @@
+====================================================================================================================================
+
+
+
+
+******************************************
+******    [goQuality Infomation]    ******
+******************************************
+
+* FaceBook Url
+	[ https://www.facebook.com/devCommuter/ ]
+
+* Kakao Open Talk
+	[ https://open.kakao.com/o/gx89mP0 ] Open talk password: 1007
+	
+
+* Link Repository 
+	[ https://github.com/integerou/goQuality-dev-contents ]
+	
+* Link Parsing Repository
+	[ https://github.com/sksggg123/goQuality-data-storages ] 
+	
+
+	
+
+******************************************
+******    goquality data storage    ******
+******************************************
+
+* developer infos
+* 권병윤
+	[ https://sksggg123.github.io ] 
+* 한정수 
+	[ https://integerous.githun.io ]
+
+
+
+
+
+====================================================================================================================================
